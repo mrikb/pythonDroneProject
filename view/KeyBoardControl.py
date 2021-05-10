@@ -11,6 +11,7 @@ def getKeyInput():
     lr, fb, ud, yv = 0, 0, 0, 0
     speed = 50
 
+
     if kb.getKey("LEFT"):  lr = -speed
     elif kb.getKey("RIGHT"): lr = speed
 
