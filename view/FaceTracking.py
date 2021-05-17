@@ -12,7 +12,7 @@ me.streamon()
 me.takeoff()
 me.send_rc_control(0, 0, 25, 0)
 
-time.sleep(2qqqqqqqqqqqq)
+time.sleep(2)
 
 w, h = 360, 240
 fbRange = [6200, 6800]
